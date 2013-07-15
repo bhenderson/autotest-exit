@@ -4,10 +4,8 @@
 
 == DESCRIPTION:
 
-Plugin to make autotest exit after all_good hook.
-
-Sometimes I want to just check all my tests, but if there is a failure, I want
-it to keep running, but if there are no failures, I want it to exit.
+Run all the tests continuously until they are all passing. Helpful for last
+minute commit push validations.
 
 == SYNOPSIS:
 
