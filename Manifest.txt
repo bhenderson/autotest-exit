@@ -3,6 +3,4 @@ History.txt
 Manifest.txt
 README.txt
 Rakefile
-bin/autotest/exit
 lib/autotest/exit.rb
-test/test_autotest/exit.rb
